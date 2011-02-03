@@ -4,7 +4,7 @@ class MoviePlotGenerator {
 									  'diminuitive',
 									  'fat',
 									  'determined',
-									  'grisly');
+									  'girsly');
 						
 	public static $occupations = array('movie-critic',
 									   'goat wrangler',
